@@ -1,0 +1,23 @@
+{
+    "name": "microblau-software/cjwnewsletter-ls",
+    "description": "Cjw Newsletter (Microblau Software Fork)",
+    "type": "ezpublish-legacy-extension",
+    "authors": [
+        {
+            "name": "CJW Network",
+            "homepage": "http://www.cjw-network.com"
+        },
+        {
+            "name": "Microblau",
+            "homepage": "http://www.microblau.net"
+        }
+    ],
+    "license": "GPL-2.0",
+    "minimum-stability": "dev",
+    "require": {
+        "ezsystems/ezpublish-legacy-installer": "*"
+    },
+    "extra": {
+        "ezpublish-legacy-extension-name": "cjw_newsletter"
+    }
+}
